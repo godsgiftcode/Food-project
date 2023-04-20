@@ -1,0 +1,1080 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.para-foodie{
+    position: absolute;
+    top: 40px;
+    left: 100px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 29px;
+    line-height: 39px;
+    /* identical to box height */
+
+
+    /* #06C167 */
+
+    color: #06C167;
+}
+.ellipse-2{
+    position: absolute;
+    top: 75px;
+    right: 470px;
+}
+.para-were-serious{  
+    position: absolute; 
+    top: 180px;
+    left: 90px; 
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 75px;
+   
+
+    color: #1D1D1F;
+}
+.div-href-home-{
+    position: absolute;
+    top: 50px;
+    right: 70px;
+    display: inline;
+}
+.Background-header{
+    height: 603px;
+    width: 1349px;
+    display: flex;
+    z-index: -5;
+}
+.header-home-about-{
+    text-decoration: none;
+    color: black;
+    margin-left: 30px  ;
+    font-size: 15px;
+    font-family: 'inter', sans-serif;
+}
+#header-home-id{
+    color: #06C167;
+}
+.para-we-strive{
+    position: absolute;
+    left: 100px;
+    top: 370px;
+
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 142.4%;
+    /* or 23px */
+
+
+    color: rgba(29, 29, 31, 0.75);
+
+}
+.button-get-started{
+    position: absolute;
+    left: 100px;
+    top: 470px;
+    height: 58px;
+    width: 170px;
+}
+.button-get-started:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+.place-your-image-header-woman{
+    position: absolute;
+    top: 120px;
+    right: 100px;
+    height: 594px;
+    width: 398px;
+}
+.good-quality-product{
+    position: absolute;
+    top: 320px;
+    right: 60px;
+}
+.ratings{
+    position: absolute;
+    left: 770px;
+    top: 420px;
+}
+.polcadot{
+    position: absolute;
+    top: 590px;
+    right: 50px;
+}
+.group-1-2{
+    position: absolute;
+    left: 100px;
+    top: 660px;
+}
+.group-2-2{
+    position: absolute;
+    left: 300px;
+    top: 660px;
+}
+.group-3{
+    position: absolute;
+    left: 500px;
+    top: 660px;
+}
+.line-1-top{
+    position: absolute;
+    top: 850px;
+    left: 100px;
+}
+.icon-truck{
+    position: absolute;
+    left: 100px;
+    top: 880px;
+}
+.para-free-shipping{
+    position: absolute;
+    top: 890px;
+    left: 200px;
+
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+
+
+    color: #1D1D1F;
+}
+.para-orders-above{
+    font-size: 14px;
+}
+
+.Icon-1{
+    position: absolute;
+    left: 400px;
+    top: 880px;
+}
+.para-quick-payment{
+    position: absolute;
+    top: 890px;
+    left: 500px;
+
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+
+
+    color: #1D1D1F;
+}
+.para-100-secured{
+    font-size: 14px;
+}
+.icon-2{
+    position: absolute;
+    left: 700px;
+    top: 880px;
+}
+.para-special-promo{
+    position: absolute;
+    top: 890px;
+    left: 800px;
+
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+
+
+    color: #1D1D1F;
+}
+.span-get-special{
+    font-size: 14px;
+}
+.screenshot-11{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 880px;
+    left: 1000px;
+}
+.para-24-7{
+    position: absolute;
+    top: 890px;
+    left: 1100px;
+
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+
+
+    color: #1D1D1F;
+}
+.span-ready-support{
+    font-size: 14px;
+}
+.line-1-bottom{
+    position: absolute;
+    left: 100px;
+    top: 985px;
+}
+.images{
+    position: absolute;
+    top: 1100px;
+    left: 100px;
+
+    width: 500px;
+    height: 600px;
+}
+.polcadot-2{
+    width: 150px;
+    height: 150px;
+    display: flex;
+    z-index: -5;
+
+    position: absolute;
+    top: 1085px;
+}
+.para-our-benefit{
+    position: absolute;
+    top: 1150px;
+    left: 670px;
+
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 19px;
+    line-height: 18px;
+    
+    color: #1D1D1F;
+}
+.polcadot-2{
+    position: absolute;
+    top: 1200px;
+    left: 620px;
+    z-index: -4;
+}
+.para-the-more-healthy{
+    position: absolute;
+    top: 1180px;
+    left: 670px;
+
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 60px;
+    line-height: 73px;
+
+    color: #1D1D1F;
+}
+.div-for-icon-awesome-check-1{
+   position: absolute;
+   top: 1370px;
+   left: 670px;
+}
+.para-close-to-awesome-icon-1{
+    position: absolute;
+    top: 1370px;
+    left: 720px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 549;
+    font-size: 15px;
+    line-height: 19px;
+
+    color: #1D1D1F;
+}
+.para-be-alive{
+    position: absolute;
+    bottom: 200px;
+    left: 0px;
+    width: 200px;
+}
+.para-tuffles-egg{
+    position: absolute;
+    left: 0px;
+    top: 170px;
+    width: 300px;
+}
+.para-the-best{
+    position: absolute;
+    left: 0px;
+    top: 125px;
+    width: 300px;
+}
+.para-nonstop-veggie{
+    position: absolute;
+    left: 0px;
+    top: 80px;
+    width: 300px;
+}
+.para-its-the-place{
+    position: absolute;
+    left: 0px;
+    top: 40px;
+    width: 300px;
+}
+.para-be-alive{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 200px;
+}
+.images-1{
+    position: absolute;
+    top: 1870px;
+    left: 670px;
+
+    width: 550px;
+    height: 650px;
+}
+.para-our-stars{
+    position: absolute;
+    left: 100px;
+    top: 1950px;
+
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+
+    color: #1D1D1F;
+}
+.polcadot-3{
+    position: absolute;
+    top: 2000px;
+    left: 40px;
+    z-index: -4;
+}
+.para-veggie-food{
+    position: absolute;
+    top: 2000px;
+    left: 100px;
+
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 60px;
+    line-height: 63px;
+
+    color: #1D1D1F;
+}
+.numb-1500{
+    position: absolute;
+    top: 2250px;
+    left: 100px;
+
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 48px;
+
+    /* #06C167 */
+
+    color: #06C167;
+
+}
+.para-sold-product{
+    
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+
+    color: #1D1D1F;
+
+    opacity: 0.65;
+}
+.numb-500{
+    position: absolute;
+    top: 2250px;
+    left: 300px;
+
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 48px;
+    align-items: center;
+
+    /* #06C167 */
+
+    color: #06C167;
+}
+.positive-feed{
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    align-items: center;
+
+    color: #1D1D1F;
+
+    opacity: 0.65;
+}
+.numb-400{
+    position: absolute;
+    top: 2250px;
+    left: 500px;
+
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 48px;
+    align-items: center;
+
+    /* #06C167 */
+
+    color: #06C167;
+}
+.official-store{
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    align-items: center;
+
+    color: #1D1D1F;
+
+    opacity: 0.65;
+}
+.button-1{
+    position: absolute;
+    top: 2400px;
+    left: 100px;
+
+}
+.button-1:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+.our-features{
+    position: absolute;
+    top: 2700px;
+    left: 600px;
+    
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+
+    color: #1D1D1F;
+}
+.variety-of{
+    position: absolute;
+    top: 2730px;
+    left: 440px;
+
+
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 60px;
+    line-height: 73px;
+    /* identical to box height */
+
+
+    color: #1D1D1F;
+
+}
+.place-your-image-header-1{
+    position: absolute;
+    top: 2870px;
+    left: 100px;
+}
+.vector-6{
+    position: absolute;
+    top: 2870px;
+    left: 392px;
+    background: #F3FCF7;
+}
+.place-your-image-header-2{
+    position: absolute;
+    top: 2870px;
+    left: 685px;
+}
+.vector-6-2{
+    position: absolute;
+    top: 2870px;
+    left: 976px;
+    background: #F3FCF7;
+}
+.vector-6-3{
+    position: absolute;
+    top: 3162px;
+    left: 100px;
+    background: #F3FCF7;
+
+}
+.place-your-image-header-4{
+    position: absolute;
+    top: 3162px;
+    left: 392px;
+}
+.vector-6-4{
+    position: absolute;
+    top: 3162px;
+    left: 685px;
+    background: #F3FCF7;
+}
+.place-your-image-header-3{
+    position: absolute;
+    top: 3162px;
+    left: 976px;
+}
+.para-veggies-are-fore{
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 39px;
+
+    color: #1D1D1F;
+
+    position: absolute;
+    top: 2910px;
+    left: 430px;
+}
+.para-we-offer{
+    position: absolute;
+    top: 3000px;
+    left: 430px;
+
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+
+    color: #1D1D1F;
+}
+.button-5-1{
+    position: absolute;
+    top: 3080px;
+    left: 430px;
+}
+
+.para-good-for{
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 39px;
+
+    color: #1D1D1F;
+    position: absolute;
+    top: 2910px;
+    left: 1010px;   
+}
+.para-we-offer-2{
+    position: absolute;
+    top: 3000px;
+    left: 1010px;
+
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+
+    color: #1D1D1F;
+}
+.button-5-2{
+    position: absolute;
+    left: 1010px;
+    top: 3080px;
+
+}
+.para-veggie-food-groove{
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 39px;
+
+    color: #1D1D1F;
+    position: absolute; 
+    top: 3210px;
+    left: 140px;  
+}
+.para-we-offer-3{
+    position: absolute;
+    left: 140px;
+    top: 3305px;
+
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+
+    color: #1D1D1F;
+}
+.button-5-3{
+    position: absolute;
+    left: 140px;
+    top: 3379px;
+}
+.para-that-comes{
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 39px;
+
+    color: #1D1D1F;
+    position: absolute; 
+    top: 3210px;
+    left: 740px;     
+}
+.para-we-offer-4{
+    position: absolute;
+    left: 740px;
+    top: 3305px;
+
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+
+    color: #1D1D1F;
+}
+.button-5-4{
+    position: absolute;
+    left: 740px;
+    top: 3379px;
+}
+.para-our-product{
+    position: absolute;
+    top: 3650px;
+    left: 100px;
+
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+
+    color: #1D1D1F;
+}
+.most-popular{
+    position: absolute;
+    left: 100px;
+    top: 3690px;
+
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 60px;
+    line-height: 73px;
+    /* identical to box height */
+
+
+    color: #1D1D1F;
+}
+/* .rect-7-1{
+    position: absolute;
+    top: 3820px;
+    left: 100px;
+} */
+.place-your-image-5{
+    position: absolute;
+    top: 3860px;
+    left: 140px;
+}
+.star-1{
+    position: absolute;
+    left: 180px;
+    top: 4059px;
+}
+.summer{
+    position: absolute;
+    left: 151px;
+    top: 4090px;
+
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #1D1D1F;
+}
+.price-1{
+    position: absolute;
+    top: 4130px;
+    left: 180px;
+}
+.button-2{
+    position: absolute;
+    top: 4180px;
+    left: 140px;
+}
+.www-2{
+    position: absolute;
+    top: 3820px;
+    left: 400px;
+    border: 2px solid #76767540;
+    height: 443px;
+    width: 268px;
+       
+}
+.www-2:hover{
+    border: 2px solid #06C167;
+}
+.place-your-image-6{
+    position: absolute;
+    top: 3860px;
+    left: 440px;
+}
+.star-2{
+    position: absolute;
+    left: 480px;
+    top: 4059px;
+}
+.Greenie{
+    position: absolute;
+    left: 451px;
+    top: 4090px;
+
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #1D1D1F;
+}
+.price-2{
+    position: absolute;
+    top: 4130px;
+    left: 480px;
+}
+.button-2-2{
+    position: absolute;
+    top: 4180px;
+    left: 440px;
+}
+.www-3{
+    position: absolute;
+    top: 3820px;
+    left: 700px;   
+
+    border: 2px solid #76767540;
+    height: 443px;
+    width: 268px;
+}
+.www-3:hover{
+    border: 2px solid #06C167;
+}
+.place-your-image-7{
+    position: absolute;
+    top: 3860px;
+    left: 740px;
+}
+.star-3{
+    position: absolute;
+    left: 780px;
+    top: 4059px;
+}
+.Vegetable{
+    position: absolute;
+    left: 751px;
+    top: 4090px;
+
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #1D1D1F;
+}
+.price-3{
+    position: absolute;
+    top: 4130px;
+    left: 780px;
+}
+.button-2-3{
+    position: absolute;
+    top: 4180px;
+    left: 740px;
+}
+.www-4{
+    position: absolute;
+    top: 3820px;
+    left: 1000px;
+    
+    border: 2px solid #76767540;
+    height: 443px;
+    width: 268px;
+         
+}
+.www-4:hover{
+    border: 2px solid #06C167;
+}
+.place-your-image-8{
+    position: absolute;
+    top: 3860px;
+    left: 1040px;
+}
+.star-4{
+    position: absolute;
+    left: 1080px;
+    top: 4059px;
+}
+.fresh-meat{
+    position: absolute;
+    left: 1051px;
+    top: 4090px;
+
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #1D1D1F;
+}
+.price-4{
+    position: absolute;
+    top: 4130px;
+    left: 1080px;
+}
+.button-2-4{
+    position: absolute;
+    top: 4180px;
+    left: 1040px;
+}
+.rect-8{
+    position: absolute;
+    top: 4450px;
+    left: 100px;
+    z-index: -4;
+}
+.para-veggie-food-ingreidients{
+    position: absolute;
+    top: 4600px;
+    left: 300px;
+
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 73px;
+    text-align: center;
+
+    color: #F3FCF7;
+}
+.button-3{
+    position: absolute;
+    top: 4770px;
+    left: 630px;
+}
+.para-foodie-2{
+    position: absolute;
+    top: 5050px;
+    left: 100px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 29px;
+    line-height: 39px;
+    /* identical to box height */
+
+
+    /* #06C167 */
+
+    color: #06C167;
+}
+.para-our-goal{
+    position: absolute;
+    left: 100px;
+    top: 5130px;
+
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #1D1D1F;
+}
+.div-social-icons{
+    position: absolute;
+    top: 5200px;
+    justify-content: space-between;
+    margin-left: 100px;
+}
+.instagram-icon{
+    margin-left: 30px;
+    width: 19px;
+    height: 19px;
+}
+.twitter-icon{
+    margin-left: 30px;
+    width: 18px;
+    height: 16px;
+}
+.header-home-about-:hover{
+    color: #06C167;
+}
+.www-1{
+    position: absolute;
+    top: 3820px;
+    left: 100px;
+    border: 2px solid #76767540;
+    height: 443px;
+    width: 268px;
+    
+}
+.www-1:hover{
+    border: 2px solid #06C167;
+}
+.div-footer-1{
+    position: absolute;
+    top: 5055px;
+    left: 500px;
+}
+.nav-top-1{
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+    text-decoration: none;
+
+    color: #1D1D1F;
+}
+.nav-bottom-1{
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-decoration: none;
+
+    color: #1D1D1F;
+    text-align: center;
+    margin-left: 30px;
+}
+.nav-bottom-1-about{
+    text-decoration: none;
+    color: #1D1D1F;
+}
+.nav-bottom-1-service{
+    text-decoration: none;
+    color: #1D1D1F;
+}
+.nav-bottom-1-contact{
+    text-decoration: none;
+    color: #1D1D1F;
+}
+.nav-bottom-1-company{
+    text-decoration: none;
+    color: #1D1D1F;
+}
+.div-footer-2{
+    position: absolute;
+    top: 5055px;
+    left: 700px;
+
+}
+.nav-top-2{
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+    text-decoration: none;
+
+    color: #1D1D1F;
+
+}
+.nav-bottom-2{
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-decoration: none;
+
+    color: #1D1D1F;
+}
+.nav-bottom-1-partner{
+    text-decoration: none;
+    color: #1D1D1F;
+}
+.nav-bottom-1-terms{
+    text-decoration: none;
+    color: #1D1D1F;
+}
+.nav-bottom-1-privacy{
+    text-decoration: none;
+    color: #1D1D1F;
+}
+.nav-bottom-1-sitemap{
+    text-decoration: none;
+    color: #1D1D1F;
+}
+.div-footer-3{
+    position: absolute;
+    top: 5055px;
+    left: 900px;
+}
+.nav-top-3{
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+    text-decoration: none;
+
+    color: #1D1D1F;
+}
+.nav-bottom-1-stay{
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 19px;
+    text-decoration: none;
+
+    color: #1D1D1F;
+}
+.placeholder{
+    margin-top: 30px;
+    outline: none;
+    border: none;
+    border: 1px solid #F0F1EC;
+    height: 50px;
+    width: 205px;
+    background-color: #F0F1EC;
+    padding-left: 20px;
+}
+.button-4{
+    position: relative;
+    top: 20px;
+    margin-left: 20px;
+}
+
